@@ -365,7 +365,10 @@ public class MainActivity2 extends AppCompatActivity {
 }
 ```
 ## OUTPUT
-![ss (1)](https://github.com/pradxxsh/workshop1/assets/131758539/c89124db-b70f-4005-896e-3e25f3c375a3)
+
+![mad1](https://github.com/Soorya7/workshop-1/assets/105735689/065156f1-6450-4422-bb7a-c3708093a183)
+![mad2](https://github.com/Soorya7/workshop-1/assets/105735689/f399e26d-5b93-4749-8b62-476e0d41f7fc)
+![mad3](https://github.com/Soorya7/workshop-1/assets/105735689/41958a3b-a2a9-49fa-9927-71f9634cd90a)
 
 
 ## RESULT
